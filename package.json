@@ -1,5 +1,5 @@
 {
-  "name": "ChatGPT and Whatsapp bot",
+  "name": "chatgpt-whatsapp-bot",
   "version": "1.0.0",
   "description": "ChatGPT and Whatsapp bot, based on Node.js by amosayomide05",
   "main": "index.js",
